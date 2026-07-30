@@ -9,7 +9,6 @@ public class Main {
     }
 }
 
-
 class Loan{
 
     public void loanApproved(){
